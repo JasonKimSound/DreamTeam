@@ -59,17 +59,17 @@ Material:
     - _BlendDst: 10
     - _BlendSrc: 5
     - _BumpScale: 1
-    - _ChromaKeyBrightnessRange: 0.494
-    - _ChromaKeyHueRange: 0.1
-    - _ChromaKeySaturationRange: 0.526
+    - _ChromaKeyBrightnessRange: 0.629
+    - _ChromaKeyHueRange: 0.095
+    - _ChromaKeySaturationRange: 0.408
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.744
+    - _Glossiness: 1
     - _GlossyReflections: 1
-    - _Metallic: 0.077
+    - _Metallic: 0.256
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
