@@ -2353,4 +2353,8 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
+<<<<<<< HEAD
   playerPath: /Users/jisukim/Documents/GitHub/DreamTeam/DreamTeam/AR_Art.apk
+=======
+  playerPath: "/Users/jeong-gyeong-eon/Desktop/\u3147\u3139\u314E\u3134\u3147\u3139\u314E\u3141.apk"
+>>>>>>> e16f08c9861d2413cc25ecf22cc6c5450109c5e2
