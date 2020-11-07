@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E6493ACA-CF4A-2FFA-D422-55B078E5D36A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="75" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DreamTeam" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ea3c932-77ed-48a1-a742-43b493636008" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
