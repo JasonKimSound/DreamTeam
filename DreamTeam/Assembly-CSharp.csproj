@@ -106,67 +106,67 @@
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -340,16 +340,16 @@
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

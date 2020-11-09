@@ -88,16 +88,16 @@
     <None Include="Assets\SamplesResources\SceneAssets\VirtualButtons\Shaders\Gradient.shader" />
     <None Include="Assets\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
     <Reference Include="VuforiaScripts">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -271,16 +271,16 @@
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.ptc.vuforia.engine@9.5.4/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeam/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/jeong-gyeong-eon/Documents/GitHub/DreamTeamㅁ 3/DreamTeam/DreamTeam/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Users/jeong-gyeong-eon/Desktop/unity/2019.2.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
